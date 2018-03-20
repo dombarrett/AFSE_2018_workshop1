@@ -113,9 +113,9 @@ The exercise of wanting to measure temperature in a room is a good example for t
 
 ## The Arduino IDE
 
-The Arduino IDE is where you program your Arduino, it looks like this:
+The online Arduino IDE is where you program your Arduino, it looks like this:
 
-![alt text](https://github.com/aamontoya89/teaching_afse/raw/master/assets/arduino_ide.png "Arduino IDE")
+![alt text](https://raw.githubusercontent.com/dombarrett/AFSE_2018_workshop1/master/arduinoOnlineIDE.png "Arduino IDE")
 
 The software you write for your Arduino is called an sketch. Let's continue to our first Arduino sketch!
 
