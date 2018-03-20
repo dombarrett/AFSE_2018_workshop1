@@ -117,21 +117,21 @@ Part 1: Create an account on Arduino Create and install the Arduino Plugin
 
 Go to Arduino Create (https://create.arduino.cc/) and click “Sign in” at the top right of the page.
 
-*Create a new account by clicking “Sign Up”.
-*Use your AFSE email (up to the @ symbol) as your username. 
-*Choose a password you will remember.
-*Use your AFSE email as the email for your account.
-*Click “Create account”.
+* Create a new account by clicking “Sign Up”.
+* Use your AFSE email (up to the @ symbol) as your username. 
+* Choose a password you will remember.
+* Use your AFSE email as the email for your account.
+* Click “Create account”.
 
 Once you’ve created an account, go to your email inbox.  You should have a verify email at the top of your inbox.  Follow the instructions inside that email to verify your account.
 
 
 Go back to https://create.arduino.cc/
 
-*Click “Getting Started”.
-*Click “Set up the Arduino Plugin to start coding online”.
-*The plugin will download.
-*Once fully downloaded, raise your hand and ask Mr. Rothman to install the plugin.
+* Click “Getting Started”.
+* Click “Set up the Arduino Plugin to start coding online”.
+* The plugin will download.
+* Once fully downloaded, raise your hand and ask Mr. Rothman to install the plugin.
 
 Nice work!  You should be able to use an Arduino with your Macbook!
 
