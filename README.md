@@ -1,12 +1,14 @@
 # Workshop 00
 ## Introduction to physical computing
 
-Setup: 2pm
-Session: 3:30pm - 4:30pm
-Wrapup: 4:30pm - 5:00pm
+Session: March 20th, 3:30pm
 
 by NYU ITP students Daniella, Nate, Koji, and Dominic
 & AFSE teacher Jonathan Rothman
+
+(Taken from Aarón Montoya Moraga's notes from last year:
+https://github.com/montoyamoraga/teaching_afse/blob/master/workshop_00.md
+)
 
 ## What is physical computing?
 
